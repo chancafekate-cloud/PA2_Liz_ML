@@ -9,10 +9,10 @@ st.markdown("---")
 
 # --- PUNTO 10: REQUISITO DE INFORMACIÓN OBLIGATORIA ---
 st.sidebar.header("📋 Información del Alumno")
-st.sidebar.write("**Estudiante:** Tu Nombre Completo")
-st.sidebar.write("**Código ISIL:** Tu Código de Estudiante")
+st.sidebar.write("**Estudiante:** Liz Kateryn Chancafe Pisfil")
+st.sidebar.write("**Código ISIL:** 48116503")
 # REEMPLAZA EL LINK DE ABAJO CON EL ENLACE REAL DE COMPARTIR DE TU CUADERNO DE COLAB
-st.sidebar.write("[🔗 Ver Cuaderno Google Colab (Lector)](https://colab.research.google.com/)")
+st.sidebar.write("[🔗 Ver Cuaderno Google Colab (Lector)](https://colab.research.google.com/drive/1wPpgiJNjGyzsmv91JjVahrjxVQALXrU_#scrollTo=9gIxk7_snJ9f)")
 
 # Cargar el modelo .pkl guardado
 try:
