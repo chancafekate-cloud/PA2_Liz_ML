@@ -1,0 +1,9 @@
+PROMPT UTILIZADO PARA EL DESPLIEGUE:
+Actúa como un experto en Python y Data Science. Diseña un aplicativo en Streamlit que cargue un modelo
+entrenado de clasificación binaria guardado en 'modelos/modelo_diabetes.pkl'.
+La aplicación debe solicitar mediante inputs numéricos (st.number_input) los parámetros clave de 
+salud del paciente: edad, bmi, presión arterial y los niveles séricos s1, s2, s3, s4, s5, s6 
+correspondientes al dataset nativo de diabetes de sklearn. Agrega campos visibles fijos para
+mis datos de alumno (Nombre, Código) y el link a mi cuaderno de Colab. Al presionar un botón
+de evaluación, el aplicativo debe predecir si el paciente posee un riesgo alto o bajo de progresión 
+de diabetes mediante mensajes de éxito o advertencia.
