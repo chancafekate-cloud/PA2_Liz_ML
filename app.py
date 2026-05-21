@@ -12,7 +12,7 @@ st.sidebar.header("📋 Información del Alumno")
 st.sidebar.write("**Estudiante:** Liz Kateryn Chancafe Pisfil")
 st.sidebar.write("**Código ISIL:** 48116503")
 # REEMPLAZA EL LINK DE ABAJO CON EL ENLACE REAL DE COMPARTIR DE TU CUADERNO DE COLAB
-st.sidebar.write("[🔗 Ver Cuaderno Google Colab (Lector)](https://colab.research.google.com/drive/1wPpgiJNjGyzsmv91JjVahrjxVQALXrU_#scrollTo=9gIxk7_snJ9f)")
+st.sidebar.write("[🔗 Ver Cuaderno Google Colab (Lector)](https://colab.research.google.com/drive/1wPpgiJNjGyzsmv91JjVahrjxVQALXrU_?usp=sharing)")
 
 # Cargar el modelo .pkl guardado
 try:
